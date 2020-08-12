@@ -80,6 +80,9 @@ VideoProcessor.reverseVideo(context, inputVideoPath, outputVideoPath,reverseAudi
 VideoProcessor.mixAudioTrack(context, inputVideoPath, aacAudioPath, outputVideoPath, startMs, endMs, videoVolume, audioVolume,fadeInSec, fadeOutSec);
 ```
 
+##SoundTouch
+https://gitlab.com/soundtouch/soundtouch （version: 1.9.2）
+
 ## Demo
 ![enter image description here](https://github.com/yellowcath/VideoProcessor/raw/master/readme/VideoProcessorDemo.png)
 
